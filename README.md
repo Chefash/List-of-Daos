@@ -1,2 +1,3 @@
 #Dao-List
-The last files added are the correct ones. The first downloads I put in here were missing Blockchain and contract addresses.
+The last files titled Dao-List.pdf and Dao-List.csv added are the correct ones. 
+The first download I posted in here is missing the Blockchain and contract addresses.
