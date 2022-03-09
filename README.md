@@ -1,3 +1,4 @@
-#Dao-List
-The last files titled Dao-List.pdf and Dao-List.csv added are the correct ones. 
-The first download I posted in here is missing the Blockchain and contract addresses.
+#Dao-List(1) - contains 
+
+Dao Tools has 120 tools listed. I uploaded both bounty submissions as psf and csv.
+
